@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet8",
+  "name": "ts_tree_tiles",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,

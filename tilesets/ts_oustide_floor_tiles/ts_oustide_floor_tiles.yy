@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet7",
+  "name": "ts_oustide_floor_tiles",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
