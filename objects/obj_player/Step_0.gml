@@ -20,6 +20,14 @@ if instance_exists(obj_paurser){
 }
 
 
+//Textbox pause
+if(global.paused){
+	xspd = 0;
+	yspd = 0;
+	exit;
+}
+
+
 //Set sprite to which way to face
 mask_index = sprite[DOWN];
 
@@ -71,10 +79,11 @@ if place_meeting (x, y+ yspd, obj_wall) == true{
 	yspd = 0;
 }
 
-
-
 //Update movement
 x += xspd;
 y += yspd;
+
+
+
 
 
