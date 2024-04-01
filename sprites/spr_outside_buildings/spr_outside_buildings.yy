@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "$GMSprite":"",
   "%Name":"spr_outside_buildings",
   "bboxMode":0,
@@ -13,6 +14,23 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"fd05f9dc-0a9f-49e1-91ed-9fc1dd817880","name":"fd05f9dc-0a9f-49e1-91ed-9fc1dd817880","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+=======
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_outside_buildings",
+  "bbox_bottom": 191,
+  "bbox_left": 0,
+  "bbox_right": 392,
+  "bbox_top": 0,
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "collisionTolerance": 0,
+  "DynamicTexturePage": false,
+  "edgeFiltering": false,
+  "For3D": false,
+  "frames": [
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fd05f9dc-0a9f-49e1-91ed-9fc1dd817880",},
+>>>>>>> 7cec575f0b6e4f938712eaf58e84ccbe3105632a
   ],
   "gridX":0,
   "gridY":0,
