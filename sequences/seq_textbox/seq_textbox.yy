@@ -166,8 +166,13 @@
                             {"th0":0.0,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
                             {"th0":-0.1,"th1":0.099999666,"tv0":0.0,"tv1":0.0,"x":0.5,"y":0.0,},
                             {"th0":-0.16753894,"th1":0.0,"tv0":-0.7601078,"tv1":0.0,"x":1.0,"y":0.0,},
+<<<<<<< HEAD
                           ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
                         {"$GMAnimCurveChannel":"","%Name":"y","colour":4281083598,"name":"y","points":[
+=======
+                          ],"visible":true,},
+                        {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"y","colour":4281083598,"points":[
+>>>>>>> 7cec575f0b6e4f938712eaf58e84ccbe3105632a
                             {"th0":0.0,"th1":0.2547588,"tv0":0.0,"tv1":-0.013477089,"x":0.0,"y":-0.9407008,},
                             {"th0":-0.1,"th1":0.099999666,"tv0":0.0,"tv1":0.0,"x":0.5,"y":-2.0,},
                             {"th0":-0.099999666,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-0.43126684,},
@@ -178,8 +183,13 @@
                             {"th0":0.0,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
                             {"th0":-0.1,"th1":0.099999666,"tv0":0.0,"tv1":0.0,"x":0.5,"y":0.0,},
                             {"th0":-0.16753894,"th1":0.0,"tv0":-0.7601078,"tv1":0.0,"x":1.0,"y":0.0,},
+<<<<<<< HEAD
                           ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
                         {"$GMAnimCurveChannel":"","%Name":"y","colour":4281083598,"name":"y","points":[
+=======
+                          ],"visible":true,},
+                        {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"y","colour":4281083598,"points":[
+>>>>>>> 7cec575f0b6e4f938712eaf58e84ccbe3105632a
                             {"th0":0.0,"th1":0.2547588,"tv0":0.0,"tv1":-0.013477089,"x":0.0,"y":-0.9407008,},
                             {"th0":-0.1,"th1":0.099999666,"tv0":0.0,"tv1":0.0,"x":0.5,"y":-2.0,},
                             {"th0":-0.099999666,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-0.43126684,},
